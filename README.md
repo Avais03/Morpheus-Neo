@@ -53,6 +53,8 @@
 Сервер отключился. Завершение работы клиента.
 ```
 
+![matrix](https://github.com/Avais03/Morpheus-Neo/blob/boss/Morpheus.jpeg)
+
 <h2>author: Vladimir Slastin🤙</h2>
 
 + [VK](https://vk.com/vovchik1902)
